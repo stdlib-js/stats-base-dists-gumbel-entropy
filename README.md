@@ -69,7 +69,7 @@ where `γ` is the [Euler–Mascheroni constant][euler-mascheroni].
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@v0.2.1-deno/mod.js';
 ```
 
 #### entropy( mu, beta )
@@ -129,7 +129,7 @@ y = entropy( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@v0.2.1-deno/mod.js';
 
 var beta;
 var mu;
