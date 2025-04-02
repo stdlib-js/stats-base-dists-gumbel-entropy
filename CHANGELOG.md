@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-04-02)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3657](https://github.com/stdlib-js/stdlib/issues/3657)
+[#3657](https://github.com/stdlib-js/stdlib/issues/3657), [#5424](https://github.com/stdlib-js/stdlib/issues/5424)
 
 </section>
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`cfa7b23`](https://github.com/stdlib-js/stdlib/commit/cfa7b23590ff73b540aab2601eb2a0b7539d1f56) - **chore:** address commit comment [(#5449)](https://github.com/stdlib-js/stdlib/pull/5449) _(by Harsh)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`c5feaab`](https://github.com/stdlib-js/stdlib/commit/c5feaab7de3240a8c2b248f9977448af8adfe43b) - **feat:** add C implementation of `stats/base/dists/gumbel/entropy` [(#4167)](https://github.com/stdlib-js/stdlib/pull/4167) _(by Vinit Pandit, stdlib-bot, Philipp Burckhardt)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -48,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vinit Pandit
