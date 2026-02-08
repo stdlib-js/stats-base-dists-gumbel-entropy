@@ -69,7 +69,7 @@ where `γ` is the [Euler–Mascheroni constant][euler-mascheroni].
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@v0.3.1-deno/mod.js';
 ```
 
 #### entropy( mu, beta )
@@ -130,7 +130,7 @@ y = entropy( 0.0, -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-entropy@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
