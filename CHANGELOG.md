@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2d771d9`](https://github.com/stdlib-js/stdlib/commit/2d771d906a8ecd41c343ca61128107aa7d7c18e5) - **bench:** update random value generation for `stats/base/dists/gumbel/entropy` [(#10362)](https://github.com/stdlib-js/stdlib/pull/10362) _(by Bhargav Dabhade)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Bhargav Dabhade
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
