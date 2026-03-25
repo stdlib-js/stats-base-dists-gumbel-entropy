@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-27)
+## Unreleased (2026-03-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`2d771d9`](https://github.com/stdlib-js/stdlib/commit/2d771d906a8ecd41c343ca61128107aa7d7c18e5) - **bench:** update random value generation for `stats/base/dists/gumbel/entropy` [(#10362)](https://github.com/stdlib-js/stdlib/pull/10362) _(by Bhargav Dabhade)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Bhargav Dabhade
+-   anee3
 
 </section>
 
