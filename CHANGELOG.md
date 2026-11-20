@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-31)
+## Unreleased (2026-11-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9d20493`](https://github.com/stdlib-js/stdlib/commit/9d204931e0793fde06feb579d6efb0b9784744f4) - **refactor:** use `constants/float64/nan` in `stats/base/dists/gumbel/entropy` [(#16711)](https://github.com/stdlib-js/stdlib/pull/16711) _(by Razeen Shaheed)_
 -   [`0544c4c`](https://github.com/stdlib-js/stdlib/commit/0544c4c95f7916a779e4e7d6d2e4cc0e5840732f) - **test:** migrate `stats/base/dists/gumbel/entropy` to ULP-based assertions [(#15360)](https://github.com/stdlib-js/stdlib/pull/15360) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -30,11 +31,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Bhargav Dabhade
 -   Philipp Burckhardt
+-   Razeen Shaheed
 -   anee3
 
 </section>
